@@ -16,7 +16,7 @@ Connect an I2C OLED display 128x64 or 128x32 pixel to the available I2C bus on t
 
 ![](https://ezway-imagestore.s3.amazonaws.com/files/2018/06/16305777781529846606.jpg)
 
-[Read more about this hack here](http://www.linkedin.com/linkPending "Read more about this hack here")
+[Read more about this hack here](https://www.linkedin.com/pulse/hacking-googles-aiy-vision-kit-v2-oscar-merlos/ "Read more about this hack here")
 
 Copying
 -------
